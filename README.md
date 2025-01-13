@@ -5,6 +5,7 @@
 ## Introduction
 
 Free Custom addons:
+- [x] Use Wkhtmltopdf Docker for Report
 - [x] Vietcombank Exchange Rate
 - [ ] Techcombank Exchange Rate
 - [ ] BIDV Exchange Rate
